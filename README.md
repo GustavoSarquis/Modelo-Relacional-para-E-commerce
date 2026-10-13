@@ -1,4 +1,4 @@
-# Modelo-Relacional-para-E-commerce
+# 🛒 Modelo Relacional para E-commerce
 
 Este repositório contém a modelagem de um banco de dados para um sistema de E-commerce, desenvolvido como projeto universitário. O foco principal do modelo é garantir a integridade dos dados e aplicar regras de negócio fundamentais para o comércio eletrônico.
 
